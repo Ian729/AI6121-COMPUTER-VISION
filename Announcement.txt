@@ -1,0 +1,103 @@
+AI6121 - Project
+Posted on: Thursday, November 4, 2021 11:00:49 PM SGT
+
+Dear Students
+
+I learnt that the dataset link for the handwritten digit recognition project is outdated and incorrect. It links to the dataset of 26 handwritten letters instead. 
+
+Just clarify that you can work on either dataset with 10 handwritten digits or 26 handwritten letters.
+
+Regards
+
+Shijian
+
+Posted by: SCSE Lu Shijian
+
+Posted to: 21S1-AI6121-COMPUTER VISION
+
+AI6121 - Student feedback and this Friday's lecture
+Posted on: Monday, November 1, 2021 3:25:28 PM SGT
+
+Dear students,
+
+If you have time, it would be highly appreciated if you could provide your feedback for the course AI6121 Computer Vision.
+
+BTW, I'll share 'unsupervised domain adaptation' and 'domain generalization' techniques on this Friday, largely over one specific computer vision task on 'semantic segmentation'. I wish you'll enjoy it.
+
+Thank you.
+
+Shijian
+
+Posted by: SCSE Lu Shijian
+
+Posted to: 21S1-AI6121-COMPUTER VISION
+
+AI6121 - Student feedback and this Friday's lecture
+Posted on: Monday, November 1, 2021 3:20:31 PM SGT
+
+Dear students,
+
+If you have time, it would be highly appreciated if you could provide your feedback for the course AI6121 Computer Vision.
+
+BTW, I'll share the topic 'unsupervised domain adaptation' and 'domain generalization' techniques, largely focusing on one specific computer vision task 'semantic segmentation'. I wish you'll enjoy it this Friday.
+
+Thank you.
+
+Shijian
+
+Posted by: SCSE Lu Shijian
+
+Posted to: 21S1-AI6121-COMPUTER VISION
+
+Project of AI6121
+Posted on: Friday, October 8, 2021 9:59:56 PM SGT
+
+Dear All
+
+Sorry I conveyed a confusing message about the group project tonight. The group size caps at 3 (instead of 2) as shared in the first lecture.
+
+Another point, please access the meeting links in the NTULearn Zoom page instead of asking for passcode after lectures start. I may not notice your message in time and sometime my teams may not work well (and cannot get back to you) like tonight.
+
+Stay safe and have a good weekend ahead...
+
+Regards
+
+Shijian
+
+Posted by: SCSE Lu Shijian
+
+Posted to: 21S1-AI6121-COMPUTER VISION
+
+video recordings
+Posted on: Thursday, August 19, 2021 2:02:14 PM SGT
+
+Dear All
+
+I received a few queries about the lecture video recordings. I would share that the lecture video recording can be located on the same NTULearn page where you accessed the online lectures. There is one link 'Cloud Recordings' there which leads to the recorded videos.
+
+Regards
+
+Shijian
+
+Posted by: SCSE Lu Shijian
+
+Posted to: 21S1-AI6121-COMPUTER VISION
+
+The lectures of AI6121 Computer Vision start on this Friday night...
+Posted on: Wednesday, August 11, 2021 11:06:03 AM SGT
+
+Dear All
+
+Welcome to AI6121 on Computer Vision! I'm Shijian and I'm going to cover this module in the coming semester.
+
+Just share that the first lecture will start at 6:30 pm this Friday, and the lecture will be delivered via Zoom. I have created meeting links within the NTULearn. You can access them by linking to the course site within NTULearn, clicking Tools (in the left-side panel), and then ‘Zoom Meeting for Students’, and then you can see my created meetings within the Zoom page.
+
+Feel free to message me via Microsoft Teams if you have difficulty accessing the meeting link. You can email me at Shijian.Lu@ntu.edu.sg as well. 
+
+See you all on this Friday night.
+
+Shijian
+
+Posted by: SCSE Lu Shijian
+
+Posted to: 21S1-AI6121-COMPUTER VISION
